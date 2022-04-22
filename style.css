@@ -1,0 +1,31 @@
+.block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    align-items: center;
+    background-color: rgb(48, 30, 3);
+}
+
+.oclock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    border-radius: 50%;
+    background-color: rgb(12, 17, 31);
+}
+
+.watch{
+    background-color: #ffc107a8;
+    width: 72%;
+    height: 19%;
+}
+.watch p{
+    display: flex;
+    justify-content: center;
+    padding-top: 7px;
+}
